@@ -1,0 +1,14 @@
+*, html,body{ margin: 0; padding:0;}
+.contGen{width: 100%;height:auto;}
+.contHead{width: 70%;font-size: 60px;margin-left:15%;text-align: center;font-style: oblique}
+.swimg{width: 70%;height: 80px;background-image: url(iconmonstr-sound-wave-1.png);background-position: center;background-size: 10%;background-repeat: no-repeat;margin-left: 15%;}
+.content{width:70%;height: 400px;margin-left:15%;}
+.row1{width:30%;height:95%;float:left;}
+.row2{width:30%;height:95%;float:left;margin-left:5%}
+.row3{width:30%;height:95%;float:left;margin-left:5%}
+.imgBlock{width:256px;height:256px;background-image: url(71RkLGzrd9L._CR311,0,1010,1010_UX256.jpg); margin-left:35px}
+.linkBlock{width: auto;height: auto;background-image: url(dots.png);background-repeat: no-repeat;background-position: center}
+.imgBlock2{width:256px;height:256px;background-image: url(41F3wgF02QL._CR0,0,640,640_UX256.jpg); margin-left:35px}
+.imgBlock3{width:256px;height:256px;background-image: url(wharfedale-portable-bluetooth-4-2-speaker-with-loud-stereo-sound.jpg);margin-left:35px}
+
+
